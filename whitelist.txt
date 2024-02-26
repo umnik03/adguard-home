@@ -6,5 +6,5 @@
 ! 6. /REGEX/:block access to domains matching the specified regular expression.
 !
 
-@@||jops-services.com^
-@@||youtube.com^
+@@||skyholdtown.com^
+! @@||youtube.com^
