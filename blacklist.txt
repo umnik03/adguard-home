@@ -1,0 +1,10 @@
+! 1. ||example.org^:block access to example.org and all its subdomains;
+! 2. @@||example.org^:unblock access to example.org and all its subdomains;
+! 3. 127.0.0.1 example.org:respond with 127.0.0.1 for example.org (but not for its subdomains);
+! 4. Here goes a comment.:just a comment;
+! 5. # Also a comment.:just a comment;
+! 6. /REGEX/:block access to domains matching the specified regular expression.
+!
+
+||highcpmcreativeformat.com^
+||profitablecreativeformat.com^
